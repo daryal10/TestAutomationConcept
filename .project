@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>JavaX</name>
+=======
+	<name>JavaY</name>
+>>>>>>> 12361a9cdb2ddf15fa660532bb0130dc7f0c7cae
 	<comment></comment>
 	<projects>
 	</projects>
